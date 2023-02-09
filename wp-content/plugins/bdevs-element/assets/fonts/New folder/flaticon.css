@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "Flaticon-2";
+  src: url("./Flaticon-2.eot");
+  src: url("./Flaticon-2.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon-2.woff2") format("woff2"),
+       url("./Flaticon-2.woff") format("woff"),
+       url("./Flaticon-2.ttf") format("truetype"),
+       url("./Flaticon-2.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon-2";
+    src: url("./Flaticon-2.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager-2:before {
+      display: inline-block;
+  font-family: "Flaticon-2";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    display: block;
+}
+
+.flaticon-001-oil-barrel-2:before { content: "\f100"; }
+.flaticon-002-oil-price-2:before { content: "\f101"; }
+.flaticon-003-molecular-structure-2:before { content: "\f102"; }
+.flaticon-004-maintenance-2:before { content: "\f103"; }
+.flaticon-005-oil-2:before { content: "\f104"; }
+.flaticon-006-oil-drill-2:before { content: "\f105"; }
+.flaticon-007-oil-spill-2:before { content: "\f106"; }
+.flaticon-008-oil-tanker-2:before { content: "\f107"; }
+.flaticon-009-oil-refinery-2:before { content: "\f108"; }
+.flaticon-010-oil-drill-2:before { content: "\f109"; }
+.flaticon-011-oil-2:before { content: "\f10a"; }
+.flaticon-012-oil-tanker-2:before { content: "\f10b"; }
+.flaticon-013-oil-tanker-2:before { content: "\f10c"; }
+.flaticon-014-oil-2:before { content: "\f10d"; }
+.flaticon-015-oil-2:before { content: "\f10e"; }
+.flaticon-016-oil-2:before { content: "\f10f"; }
+.flaticon-017-biofuel-2:before { content: "\f110"; }
+.flaticon-018-oil-drill-2:before { content: "\f111"; }
+.flaticon-019-oil-2:before { content: "\f112"; }
+.flaticon-020-gas-2:before { content: "\f113"; }
+.flaticon-021-oil-drill-2:before { content: "\f114"; }
+.flaticon-022-gas-2:before { content: "\f115"; }
+.flaticon-023-gas-pipe-2:before { content: "\f116"; }
+.flaticon-024-gas-storage-2:before { content: "\f117"; }
+.flaticon-025-gas-2:before { content: "\f118"; }
+.flaticon-026-no-fire-2:before { content: "\f119"; }
+.flaticon-027-oil-refinery-2:before { content: "\f11a"; }
+.flaticon-028-oil-2:before { content: "\f11b"; }
+.flaticon-029-gas-2:before { content: "\f11c"; }
+.flaticon-030-fracking-2:before { content: "\f11d"; }
+.flaticon-031-oil-2:before { content: "\f11e"; }
+.flaticon-032-gas-2:before { content: "\f11f"; }
+.flaticon-033-pollution-2:before { content: "\f120"; }
+.flaticon-034-gas-2:before { content: "\f121"; }
+.flaticon-035-oil-refinery-2:before { content: "\f122"; }
+.flaticon-036-refinery-2:before { content: "\f123"; }
+.flaticon-037-oil-rig-2:before { content: "\f124"; }
+.flaticon-038-oil-price-2:before { content: "\f125"; }
+.flaticon-039-refinery-2:before { content: "\f126"; }
+.flaticon-040-gas-2:before { content: "\f127"; }

@@ -1,0 +1,261 @@
+
+---Downloaded files---
+The import files for: Home 3 One Page were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress/BildPress
+Data file = C:\xampp\htdocs\wordpress\BildPress/wp-content/themes/bildpress/sample-data/contents-demo.xml
+Widget file = C:\xampp\htdocs\wordpress\BildPress/wp-content/themes/bildpress/sample-data/widget-settings.json
+Customizer file = C:\xampp\htdocs\wordpress\BildPress/wp-content/themes/bildpress/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg-04" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Imported
+BildPress Sidebar Posts Image - Recent Post - Imported
+Categories - Categories - Imported
+Tag Cloud - Tags - Imported
+Image - No Title - Imported
+
+Footer 1 : 
+
+Custom HTML - About us - Imported
+
+Footer 2 : 
+
+Navigation Menu - Our Services - Imported
+
+Footer 3 : 
+
+BildPress Footer Posts Image - News &amp; Updates - Imported
+
+Footer 4 : 
+
+Image - our footprints - Imported
+
+Footer Style 2: 1 : 
+
+Custom HTML - About us - Imported
+
+Footer Style 2: 2 : 
+
+Navigation Menu - Our Services - Imported
+
+Footer Style 2: 3 : 
+
+BildPress Footer Posts Image - News &amp; Updates - Imported
+
+Footer Style 2: 4 : 
+
+Image - our footprints - Imported
+
+Footer Style 4: 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer Style 4: 2 : 
+
+Navigation Menu - Useful Links - Imported
+
+Footer Style 4: 3 : 
+
+Navigation Menu - Top Services - Imported
+
+Footer Style 4: 4 : 
+
+wpzoom_instagram_widget - Instagram - Site does not support widget
+
+Service Sidebar : 
+
+BildPress Services List - More Services - Imported
+Image - No Title - Imported
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

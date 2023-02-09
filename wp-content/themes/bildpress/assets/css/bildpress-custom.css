@@ -1,0 +1,12 @@
+
+.testimonial1.box-test .testimonial1__dots-style .owl-dots .owl-dot.active span {
+	background: #00235a;
+}
+
+.testimonial1.box-test .testimonial1__dots-style .owl-dots .owl-dot:hover span{
+	background: #ff5e14;
+}
+
+.testimonial1.box-test .testimonial1__dots-style .owl-dots .owl-dot span {
+  background: #ff5e14;
+}

@@ -1,0 +1,81 @@
+.elementor-icons-manager__tab__item .fa-angle-up::before,.elementor-control-media-area .fa-angle-up::before,
+.elementor-icons-manager__tab__item .fa-check::before,.elementor-control-media-area .fa-check::before {
+	content: url(../img/check.png);
+	font-family: "Font Awesome 5 Free";
+}
+
+
+
+ ,
+.elementor-icons-manager__tab__item .fal.fa-angle-down::before,.elementor-control-media-area .fal.fa-angle-down::before ,
+.elementor-icons-manager__tab__item .fal.fa-angle-left::before,.elementor-control-media-area .fal.fa-angle-left::before ,
+.elementor-icons-manager__tab__item .fal.fa-angle-right::before,.elementor-control-media-area .fal.fa-angle-right::before ,
+
+.elementor-icons-manager__tab__item .fal.fa-arrow-up::before,.elementor-control-media-area .fal.fa-arrow-up::before ,
+.elementor-icons-manager__tab__item .fal.fa-arrow-down::before,.elementor-control-media-area .fal.fa-arrow-down::before ,
+.elementor-icons-manager__tab__item .fal.fa-arrow-left::before,.elementor-control-media-area .fal.fa-arrow-left::before ,
+.elementor-icons-manager__tab__item .fal.fa-arrow-right::before,.elementor-control-media-area .fal.fa-arrow-right::before ,
+
+.elementor-icons-manager__tab__item .fal.fa-tree::before,.elementor-control-media-area .fal.fa-tree::before ,
+.elementor-icons-manager__tab__item .fal.fa-bath::before,.elementor-control-media-area .fal.fa-bath::before ,
+.elementor-icons-manager__tab__item .fal.fa-chair::before,.elementor-control-media-area .fal.fa-chair::before ,
+.elementor-icons-manager__tab__item .fal.fa-bed::before,.elementor-control-media-area .fal.fa-bed::before ,
+.elementor-icons-manager__tab__item .fal.fa-home::before,.elementor-control-media-area .fal.fa-home::before ,
+.elementor-icons-manager__tab__item .fal.fa-broom::before,.elementor-control-media-area .fal.fa-broom::before ,
+.elementor-icons-manager__tab__item .fal.fa-washer::before,.elementor-control-media-area .fal.fa-washer::before ,
+.elementor-icons-manager__tab__item .fal.fa-globe::before,.elementor-control-media-area .fal.fa-globe::before ,
+.elementor-icons-manager__tab__item .fal.fa-marker::before,.elementor-control-media-area .fal.fa-marker::before ,
+.elementor-icons-manager__tab__item .fal.fa-envelope::before,.elementor-control-media-area .fal.fa-envelope::before ,
+.elementor-icons-manager__tab__item .fal.fa-user::before,.elementor-control-media-area .fal.fa-user::before ,
+.elementor-icons-manager__tab__item .fal.fa-phone::before,.elementor-control-media-area .fal.fa-phone::before ,
+.elementor-icons-manager__tab__item .fal.fa-map-marker::before,.elementor-control-media-area .fal.fa-map-marker::before ,
+.elementor-icons-manager__tab__item .fal.fa-search::before,.elementor-control-media-area .fal.fa-search::before ,
+.elementor-icons-manager__tab__item .fal.fa-check::before,.elementor-control-media-area .fal.fa-check::before ,
+.elementor-icons-manager__tab__item .fal.fa-shopping-cart::before,.elementor-control-media-area .fal.fa-shopping-cart::before ,
+.elementor-icons-manager__tab__item .fal.fa-bars::before,.elementor-control-media-area .fal.fa-bars::before ,
+.elementor-icons-manager__tab__item .fal.fa-language::before,.elementor-control-media-area .fal.fa-language::before ,
+.elementor-icons-manager__tab__item .fal.fa-calendar::before,.elementor-control-media-area .fal.fa-calendar::before ,
+.elementor-icons-manager__tab__item .fal.fa-play::before,.elementor-control-media-area .fal.fa-play::before {
+	content: url(../img/check.png);
+	font-family: "Font Awesome 5 Pro";
+}
+
+.elementor-icons-manager__tab__item .fal.fa-vacuum-robot::before,.elementor-control-media-area .fal.fa-vacuum-robot::before {
+	content: url(../img/check.png);
+	font-family: "Font Awesome 5 Pro";
+}
+
+.elementor-icons-manager__tab__item .fal.fa-vacuum::before,.elementor-control-media-area .fal.fa-vacuum::before{
+	content: url(../img/check.png);
+	font-family: "Font Awesome 5 Pro";
+}
+
+
+.elementor-icons-manager__tab__item .far.fa-times::before,.elementor-control-media-area .far.fa-times::before ,
+.elementor-icons-manager__tab__item .far.fa-ribbon::before,.elementor-control-media-area .far.fa-ribbon::before ,
+.elementor-icons-manager__tab__item .far.fa-bullhorn::before,.elementor-control-media-area .far.fa-bullhorn::before ,
+.elementor-icons-manager__tab__item .far.fa-arrow-up::before,.elementor-control-media-area .far.fa-arrow-up::before ,
+.elementor-icons-manager__tab__item .far.fa-arrow-down::before,.elementor-control-media-area .far.fa-arrow-down::before ,
+.elementor-icons-manager__tab__item .far.fa-arrow-left::before,.elementor-control-media-area .far.fa-arrow-left::before ,
+.elementor-icons-manager__tab__item .far.fa-arrow-right::before,.elementor-control-media-area .far.fa-arrow-right::before {
+	content: url(../img/check.png);
+	font-family: "Font Awesome 5 Pro";
+}
+
+.elementor-icons-manager__tab__item .far.fa-long-arrow-right::before,.elementor-control-media-area .far.fa-long-arrow-right::before{
+	content: url(../img/check.png);
+	font-family: "Font Awesome 5 Pro";
+}
+.elementor-icons-manager__tab__item .far.fa-long-arrow-left::before,.elementor-control-media-area .far.fa-long-arrow-left::before{
+	content: url(../img/check.png);
+	font-family: "Font Awesome 5 Pro";
+}
+.elementor-icons-manager__tab__item .far.fa-long-arrow-up::before,.elementor-control-media-area .far.fa-long-arrow-up::before{
+	content: url(../img/check.png);
+	font-family: "Font Awesome 5 Pro";
+}
+.elementor-icons-manager__tab__item .far.fa-long-arrow-down::before,.elementor-control-media-area .far.fa-long-arrow-down::before{
+	content: url(../img/check.png);
+	font-family: "Font Awesome 5 Pro";
+}
+
