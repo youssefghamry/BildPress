@@ -6,9 +6,8 @@
 	- whatsapp =>https://api.whatsapp.com/send?phone=201030459067
 	- telegram =>https://t.me/YGBrandMaker
 
-## WordPress
+##  BildPress – Construction WordPress Theme.
 
-- BildPress – Construction WordPress Theme.
 
 - BildPress – Construction WordPress Theme suitable for various types of professional Construction, Industrial, Manufacturing, Factory, Company, Small Scale Industry, Business, Engineering websites. This Theme specially designed for who wants to start their Industrial website . Also it can be used for Business Website.
 
@@ -20,21 +19,22 @@
 
 - If you are looking for a website theme that really maximizes your website’s visitors, then this theme is the perfect choice for you.
 
-## Features 
+## Features Overview
 
-- [x] Features Overview
 
 - [x] Elementor Page Builder for WordPress is drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content.
  
 - [x] Bootstrap 4.x Framework:
-- Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+	- Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [x] Responsive Layout Design:
-- What ever you are using the device your site will run as it should be. BildPress Theme is fully responsive layout for all type of devices.
+	- What ever you are using the device your site will run as it should be. BildPress Theme is fully responsive layout for all type of devices.
 - [x] One Click Demo Importer :
-- With demo data importer, you’ll be set up and ready to customize your site in minutes..
+	- With demo data importer, you’ll be set up and ready to customize your site in minutes..
 - [x] Lifetime Updates and User Support :
-- Each purchase of the Theme guarantees you lifetime access to future theme updates at no extra cost. You also get six months of user support with the option of extending this period should you wish.
-## advantage
+	- Each purchase of the Theme guarantees you lifetime access to future theme updates at no extra cost. You also get six months of user support with the option of extending this period should you wish.
+
+## Advantages
+
 - [x] Full Features List
 - [x] Elementor Page builder
 - [x] Based on Bootstrap 4.x
